@@ -1,0 +1,29 @@
+INPUT: Student_ID, Days_Inactive, Video_Completion_%, Avg_Quiz_Score
+
+# Define Business Thresholds
+SET MAX_INACTIVITY_DAYS = 7
+SET MIN_COMPLETION_RATE = 20%
+SET MIN_PASSING_SCORE = 50%
+
+FOR EACH Student IN Database:
+
+    # Rule 1: Check for "Ghost" Users (High Inactivity)
+    IF Days_Inactive > MAX_INACTIVITY_DAYS THEN
+        SET Status = "High Risk (Absent)"
+        TRIGGER Action = "Send 'We Miss You' Email"
+
+    # Rule 2: Check for "Stuck" Users (Low Performance)
+    ELSE IF Video_Completion_% < MIN_COMPLETION_RATE OR Avg_Quiz_Score < MIN_PASSING_SCORE THEN
+        SET Status = "Medium Risk (Struggling)"
+        TRIGGER Action = "Recommend Easy Prerequisite Course"
+
+    # Rule 3: Healthy Users
+    ELSE
+        SET Status = "Low Risk (Healthy)"
+        TRIGGER Action = "None"
+    
+    END IF
+
+    PRINT Student_ID, Status, Action
+
+END LOOP

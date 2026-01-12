@@ -1,0 +1,101 @@
+Student_ID,Days_Inactive,Video_Completion_Rate,Avg_Quiz_Score,Course_Category,Subscription_Status,Risk_Segment
+STU_100,4,74,80,Design,Active,Healthy
+STU_101,4,48,38,Marketing,Active,Medium Risk (Struggling)
+STU_102,2,83,90,Data Science,Active,Healthy
+STU_103,7,12,41,Web Development,Active,Medium Risk (Struggling)
+STU_104,3,89,75,Marketing,Active,Healthy
+STU_105,3,80,70,Design,Active,Healthy
+STU_106,5,84,86,Data Science,Active,Healthy
+STU_107,6,37,35,Marketing,Active,Medium Risk (Struggling)
+STU_108,5,62,74,Design,Active,Healthy
+STU_109,4,18,37,Data Science,Active,Medium Risk (Struggling)
+STU_110,28,17,57,Marketing,Cancelled,High Risk (Absent)
+STU_111,3,87,84,Marketing,Active,Healthy
+STU_112,3,17,54,Data Science,Active,Medium Risk (Struggling)
+STU_113,50,17,39,Data Science,Active,High Risk (Absent)
+STU_114,5,63,91,Marketing,Active,Healthy
+STU_115,1,85,81,Data Science,Active,Healthy
+STU_116,50,13,30,Design,Active,High Risk (Absent)
+STU_117,3,99,90,Web Development,Active,Healthy
+STU_118,1,83,95,Data Science,Active,Healthy
+STU_119,59,8,28,Web Development,Active,High Risk (Absent)
+STU_120,0,83,70,Design,Active,Healthy
+STU_121,2,76,77,Web Development,Active,Healthy
+STU_122,0,14,47,Data Science,Active,Medium Risk (Struggling)
+STU_123,22,11,33,Web Development,Cancelled,High Risk (Absent)
+STU_124,5,83,74,Data Science,Active,Healthy
+STU_125,7,31,46,Marketing,Active,Medium Risk (Struggling)
+STU_126,2,46,33,Data Science,Active,Medium Risk (Struggling)
+STU_127,19,25,54,Data Science,Active,High Risk (Absent)
+STU_128,0,74,84,Data Science,Active,Healthy
+STU_129,3,72,88,Design,Active,Healthy
+STU_130,0,91,73,Data Science,Active,Healthy
+STU_131,37,6,44,Web Development,Cancelled,High Risk (Absent)
+STU_132,4,91,76,Web Development,Active,Healthy
+STU_133,5,87,71,Design,Active,Healthy
+STU_134,5,15,47,Web Development,Active,Medium Risk (Struggling)
+STU_135,58,19,29,Data Science,Active,High Risk (Absent)
+STU_136,3,84,76,Design,Active,Healthy
+STU_137,15,24,26,Web Development,Cancelled,High Risk (Absent)
+STU_138,55,2,38,Data Science,Cancelled,High Risk (Absent)
+STU_139,5,46,52,Web Development,Active,Medium Risk (Struggling)
+STU_140,3,83,84,Web Development,Active,Healthy
+STU_141,0,71,99,Design,Active,Healthy
+STU_142,2,46,36,Web Development,Active,Medium Risk (Struggling)
+STU_143,1,61,97,Design,Active,Healthy
+STU_144,4,91,70,Marketing,Active,Healthy
+STU_145,5,11,45,Design,Active,Medium Risk (Struggling)
+STU_146,46,22,3,Design,Cancelled,High Risk (Absent)
+STU_147,0,97,93,Design,Active,Healthy
+STU_148,1,65,91,Design,Active,Healthy
+STU_149,7,25,52,Marketing,Active,Medium Risk (Struggling)
+STU_150,2,65,85,Marketing,Active,Healthy
+STU_151,3,95,88,Marketing,Active,Healthy
+STU_152,6,28,39,Marketing,Active,Medium Risk (Struggling)
+STU_153,3,50,52,Design,Active,Medium Risk (Struggling)
+STU_154,1,99,70,Design,Active,Healthy
+STU_155,0,34,42,Design,Active,Medium Risk (Struggling)
+STU_156,1,44,26,Data Science,Active,Medium Risk (Struggling)
+STU_157,1,11,20,Design,Active,Medium Risk (Struggling)
+STU_158,3,64,74,Marketing,Active,Healthy
+STU_159,23,8,34,Data Science,Active,High Risk (Absent)
+STU_160,34,23,53,Marketing,Active,High Risk (Absent)
+STU_161,2,17,55,Marketing,Active,Medium Risk (Struggling)
+STU_162,34,29,34,Web Development,Cancelled,High Risk (Absent)
+STU_163,39,28,17,Marketing,Cancelled,High Risk (Absent)
+STU_164,5,44,35,Marketing,Active,Medium Risk (Struggling)
+STU_165,50,0,3,Web Development,Cancelled,High Risk (Absent)
+STU_166,3,67,76,Data Science,Active,Healthy
+STU_167,7,42,31,Web Development,Active,Medium Risk (Struggling)
+STU_168,5,31,49,Marketing,Active,Medium Risk (Struggling)
+STU_169,59,18,53,Data Science,Active,High Risk (Absent)
+STU_170,4,89,70,Data Science,Active,Healthy
+STU_171,7,42,24,Design,Active,Medium Risk (Struggling)
+STU_172,2,63,72,Design,Active,Healthy
+STU_173,7,26,47,Data Science,Active,Medium Risk (Struggling)
+STU_174,5,65,72,Design,Active,Healthy
+STU_175,4,33,48,Marketing,Active,Medium Risk (Struggling)
+STU_176,4,90,72,Web Development,Active,Healthy
+STU_177,35,22,32,Web Development,Cancelled,High Risk (Absent)
+STU_178,0,90,91,Design,Active,Healthy
+STU_179,7,33,51,Marketing,Active,Medium Risk (Struggling)
+STU_180,6,11,46,Web Development,Active,Medium Risk (Struggling)
+STU_181,1,76,77,Data Science,Active,Healthy
+STU_182,2,48,48,Design,Active,Medium Risk (Struggling)
+STU_183,1,94,87,Data Science,Active,Healthy
+STU_184,27,27,57,Design,Cancelled,High Risk (Absent)
+STU_185,3,10,27,Design,Active,Medium Risk (Struggling)
+STU_186,7,23,31,Data Science,Active,Medium Risk (Struggling)
+STU_187,29,27,33,Marketing,Cancelled,High Risk (Absent)
+STU_188,5,34,41,Marketing,Active,Medium Risk (Struggling)
+STU_189,5,15,34,Data Science,Active,Medium Risk (Struggling)
+STU_190,3,96,70,Design,Active,Healthy
+STU_191,58,11,4,Design,Cancelled,High Risk (Absent)
+STU_192,46,19,29,Data Science,Cancelled,High Risk (Absent)
+STU_193,3,25,32,Web Development,Active,Medium Risk (Struggling)
+STU_194,56,29,18,Marketing,Active,High Risk (Absent)
+STU_195,3,85,74,Data Science,Active,Healthy
+STU_196,5,82,100,Marketing,Active,Healthy
+STU_197,4,10,20,Web Development,Active,Medium Risk (Struggling)
+STU_198,5,84,77,Design,Active,Healthy
+STU_199,15,15,60,Marketing,Active,High Risk (Absent)
